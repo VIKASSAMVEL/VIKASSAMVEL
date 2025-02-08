@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VIKASSAMVEL
+- 👋 Hi, I’m @VIKAS.S
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
