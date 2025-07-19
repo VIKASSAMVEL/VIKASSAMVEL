@@ -44,9 +44,8 @@ Welcome to my GitHub! I'm a passionate tech innovator deeply involved in solving
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 🌐 [Portfolio Website](https://yourportfolio.com)  
-- ✉️ Email: your.email@example.com  
+- 💼 [LinkedIn](https://linkedin.com/in/S.vikas-070106)    
+- ✉️ Email: vikassamvel123@gmail.com
 
 ---
 
