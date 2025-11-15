@@ -14,26 +14,8 @@
 <a href="https://github.com/VIKASSAMVEL"><img alt="Stars" src="https://img.shields.io/github/stars/VIKASSAMVEL?style=flat&color=22c55e"></a>
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=VIKASSAMVEL&color=7c3aed&style=flat" />
 
-<!-- Neon divider -->
-<svg width="100%" height="8" viewBox="0 0 1200 8" xmlns="http://www.w3.org/2000/svg">
-	<defs>
-		<linearGradient id="cyberpunk-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-			<stop offset="0%" stop-color="#00FFF0"/>
-			<stop offset="50%" stop-color="#9C27B0"/>
-			<stop offset="100%" stop-color="#FF00CC"/>
-		</linearGradient>
-		<filter id="glow" x="-50%" y="-300%" width="200%" height="700%">
-			<feGaussianBlur stdDeviation="2.2" result="coloredBlur"/>
-			<feMerge>
-				<feMergeNode in="coloredBlur"/>
-				<feMergeNode in="SourceGraphic"/>
-			</feMerge>
-		</filter>
-	</defs>
-	<rect x="0" y="2" width="1200" height="4" fill="url(#cyberpunk-grad)" filter="url(#glow)" rx="2"/>
-	Sorry, your browser does not support inline SVG.
-  
-</svg>
+<!-- Neon divider (image-based for GitHub compatibility) -->
+<img alt="Neon Divider" width="100%" height="6" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=gradient&customColorList=2,14,11" />
 
 </div>
 
