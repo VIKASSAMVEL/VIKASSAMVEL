@@ -1,8 +1,10 @@
 <div align="center">
 
-<img alt="Vikas Banner" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=S.%20Vikas%20—%20AI%2FML%20%7C%20Robotics%20%7C%20CV%20%7C%20Agentic%20Systems&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,14,10,12" />
+<img alt="Vikas Banner" width="100%" src="https://capsule-render.vercel.app/api?type=venetian&height=150&text=S.%20Vikas&fontSize=32&fontAlign=50&fontAlignY=40&desc=AI%2FML%20%E2%80%A2%20Robotics%20%E2%80%A2%20CV%20%E2%80%A2%20Agentic%20Systems&descAlign=50&descAlignY=70&color=gradient&customColorList=2,14,10,12&fontColor=ffffff" />
 
 # Hi, I'm Vikas 👋
+
+<img alt="Typing Intro" width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=500&color=00E7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Robotics+%26+Agentic+Systems;Computer+Vision+%E2%80%94+Edge+Autonomy;LLM+%26+Multimodal+Agents;Deep-Tech+Product+Builder" />
 
 🚀 Hackathon Winner • AI/ML • Computer Vision • Robotics & Agentic Systems
 
