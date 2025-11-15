@@ -1,10 +1,10 @@
 <div align="center">
 
-<img alt="Vikas Banner" width="100%" src="https://capsule-render.vercel.app/api?type=venetian&height=150&text=S.%20Vikas&fontSize=32&fontAlign=50&fontAlignY=40&desc=AI%2FML%20%E2%80%A2%20Robotics%20%E2%80%A2%20CV%20%E2%80%A2%20Agentic%20Systems&descAlign=50&descAlignY=70&color=gradient&customColorList=2,14,10,12&fontColor=ffffff" />
+<img alt="Vikas Banner" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&text=S.%20Vikas&fontSize=34&fontAlign=50&fontAlignY=50&color=gradient&customColorList=2,14,11&fontColor=ffffff&animation=twinkling" />
 
 # Hi, I'm Vikas 👋
 
-<img alt="Typing Intro" width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=500&color=00E7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Robotics+%26+Agentic+Systems;Computer+Vision+%E2%80%94+Edge+Autonomy;LLM+%26+Multimodal+Agents;Deep-Tech+Product+Builder" />
+<img alt="Typing Intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=500&color=00F0FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Robotics+%26+Agentic+Systems;Computer+Vision+%E2%80%94+Edge+Autonomy;LLM+%26+Multimodal+Agents;Deep-Tech+Product+Builder" />
 
 🚀 Hackathon Winner • AI/ML • Computer Vision • Robotics & Agentic Systems
 
@@ -13,6 +13,27 @@
 <a href="https://github.com/VIKASSAMVEL?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/VIKASSAMVEL?style=flat&color=0ea5e9"></a>
 <a href="https://github.com/VIKASSAMVEL"><img alt="Stars" src="https://img.shields.io/github/stars/VIKASSAMVEL?style=flat&color=22c55e"></a>
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=VIKASSAMVEL&color=7c3aed&style=flat" />
+
+<!-- Neon divider -->
+<svg width="100%" height="8" viewBox="0 0 1200 8" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<linearGradient id="cyberpunk-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+			<stop offset="0%" stop-color="#00FFF0"/>
+			<stop offset="50%" stop-color="#9C27B0"/>
+			<stop offset="100%" stop-color="#FF00CC"/>
+		</linearGradient>
+		<filter id="glow" x="-50%" y="-300%" width="200%" height="700%">
+			<feGaussianBlur stdDeviation="2.2" result="coloredBlur"/>
+			<feMerge>
+				<feMergeNode in="coloredBlur"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter>
+	</defs>
+	<rect x="0" y="2" width="1200" height="4" fill="url(#cyberpunk-grad)" filter="url(#glow)" rx="2"/>
+	Sorry, your browser does not support inline SVG.
+  
+</svg>
 
 </div>
 
