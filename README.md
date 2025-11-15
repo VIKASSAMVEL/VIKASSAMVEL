@@ -181,7 +181,7 @@ flowchart LR
 ### Visual Skill Map
 
 <div align="center">
-	<img alt="Skills Radar" src="https://quickchart.io/chart?c=%7Btype%3A'radar'%2Cdata%3A%7Blabels%3A%5B'Computer%20Vision'%2C'LLMs'%2C'Robotics'%2C'Edge%20Autonomy'%2C'Platform'%5D%2Cdatasets%3A%5B%7Blabel%3A'Strength'%2Cdata%3A%5B95%2C87%2C92%2C90%2C84%5D%2CborderColor%3A'%2300F0FF'%2CbackgroundColor%3A'rgba(0%2C240%2C255%2C0.15)'%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A'rgba(156%2C39%2C176%2C0.25)'%7D%2Cgrid%3A%7Bcolor%3A'rgba(156%2C39%2C176%2C0.25)'%7D%7D%7D%7D%7D&backgroundColor=transparent&width=600&height=300&format=png" />
+	<img alt="Skills Radar (dark-mode friendly)" src="https://quickchart.io/chart?c=%7Btype%3A'radar'%2Cdata%3A%7Blabels%3A%5B'Computer%20Vision'%2C'LLMs'%2C'Robotics'%2C'Edge%20Autonomy'%2C'Platform'%5D%2Cdatasets%3A%5B%7Blabel%3A'Strength'%2Cdata%3A%5B95%2C87%2C92%2C90%2C84%5D%2CborderColor%3A'%2300F0FF'%2CbackgroundColor%3A'rgba(0%2C240%2C255%2C0.18)'%2CpointBackgroundColor%3A'%2300F0FF'%2CpointBorderColor%3A'%23ffffff'%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%7D%2Cscales%3A%7Br%3A%7BangleLines%3A%7Bcolor%3A'rgba(156%2C39%2C176%2C0.25)'%7D%2Cgrid%3A%7Bcolor%3A'rgba(255%2C255%2C255%2C0.08)'%7D%2Cticks%3A%7Bcolor%3A'rgba(255%2C255%2C255%2C0.6)'%7D%2CpointLabels%3A%7Bcolor%3A'rgba(255%2C255%2C255%2C0.9)'%2Cfont%3A%7Bsize%3A12%7D%7D%2CbeginAtZero%3Atrue%2Cmax%3A100%2Cmin%3A0%7D%7D%2Celements%3A%7Bline%3A%7BborderWidth%3A2%7D%7D%2Clayout%3A%7Bpadding%3A10%7D%7D%7D&backgroundColor=transparent&width=600&height=360&format=png" />
 </div>
 
 ## GitHub Stats
