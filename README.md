@@ -26,16 +26,16 @@
 
 —
 
-I’m a high-throughput CS engineer (3rd year) building production-grade, cross-domain AI systems that bridge machine intelligence, autonomous robotics, and platform engineering. My trajectory is evolving from student innovator to emerging deep-tech architect — owning the path from dataset to deployment, from model to mission.
+I build production-grade AI and full-stack products across robotics, computer vision, and developer platforms — with a strong focus on systems that are deployable, testable, and useful in real-world conditions.
 
 —
 
 ## What I’m Building
 
- - <img alt="AI" src="https://img.shields.io/badge/AI-ML-00F0FF?style=flat-square" /> AI-Powered Multimodal Agents for agriculture and rural empowerment (voice/image/text, multilingual, offline-first)
- - <img alt="Robotics" src="https://img.shields.io/badge/Robotics-9C27B0?style=flat-square" /> Dual-drone orchestration for disaster response (PX4/ArduPilot, MAVLink, KML routes, GStreamer RTSP)
- - <img alt="Computer Vision" src="https://img.shields.io/badge/Computer_Vision-00F0FF?style=flat-square" /> Virtual Try-On pipelines (pose estimation, cloth-human alignment, dynamic warping, rendering)
- - <img alt="Data" src="https://img.shields.io/badge/Data-22c55e?style=flat-square" /> Large-scale recommender systems (9,551-restaurant content-based pipeline: cleaning → encoding → features → evaluation)
+ - <img alt="Android" src="https://img.shields.io/badge/Android-Kotlin-3DDC84?style=flat-square&logo=android&logoColor=white" /> **SkyFPV**: open-source Android ground station for Skydroid T12/UVC FPV with low-latency H.264, DVR, VR mode, maps, and MAVLink forwarding
+ - <img alt="Flutter" src="https://img.shields.io/badge/Flutter-Dart-02569B?style=flat-square&logo=flutter&logoColor=white" /> **farmer-agent**: multilingual farmer support app with chat, plant disease diagnosis, weather advisories, mandi prices, soil card guidance, and schemes explorer
+ - <img alt="Next.js" src="https://img.shields.io/badge/Next.js-TypeScript-000000?style=flat-square&logo=next.js&logoColor=white" /> **VenueSync AI (promptwars)**: smart-stadium operations dashboard with simulated GenAI flows, fan navigation, accessibility mode, and tests
+ - <img alt="React" src="https://img.shields.io/badge/React-TypeScript-61DAFB?style=flat-square&logo=react&logoColor=111827" /> **portfolio**: cinematic React + TypeScript + Vite portfolio with GSAP-driven chapter storytelling
 
 ## Core Engineering Strengths
 
@@ -47,23 +47,21 @@ I’m a high-throughput CS engineer (3rd year) building production-grade, cross-
 
 ## Featured Projects
 
- - <img alt="Agri" src="https://img.shields.io/badge/Agritech-7DD3FC?style=flat-square" /> AI Farmer Agent — multimodal agritech intelligence  
-	`Python` • Voice/Image/Text • Multilingual NLU • Offline-first • [Repo](https://github.com/VIKASSAMVEL/farmer_ai_agent)
- - <img alt="Fashion" src="https://img.shields.io/badge/Fashion-FF00CC?style=flat-square" /> TryOnAi — virtual try-on with pose + warp  
+ - <img alt="FPV" src="https://img.shields.io/badge/FPV-Ground_Station-FF6F00?style=flat-square" /> SkyFPV — Android FPV ground station for Skydroid T12 + UVC  
+	`Kotlin` • MediaCodec H.264 • DVR (MediaMuxer) • VR split view • OSMDroid maps • MAVLink forwarding • [Repo](https://github.com/VIKASSAMVEL/skydroid-fpv)
+ - <img alt="Agritech" src="https://img.shields.io/badge/Agritech-Multilingual-22c55e?style=flat-square" /> farmer-agent — practical farmer assistant app  
+	`Flutter` • `Dart` • Voice + chat • Plant Doctor • Weather + mandi + soil + schemes • [Repo](https://github.com/VIKASSAMVEL/farmer-agent)
+ - <img alt="PromptWars" src="https://img.shields.io/badge/PromptWars-VenueSync_AI-7c3aed?style=flat-square" /> VenueSync AI — smart-stadium operations platform  
+	`Next.js` • `TypeScript` • Simulated GenAI assistant • Accessibility routing • Jest/RTL tests • [Repo](https://github.com/VIKASSAMVEL/promptwars)
+ - <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Interactive_UI-00F0FF?style=flat-square" /> portfolio — chapter-based personal site  
+	`React` • `TypeScript` • `Vite` • GSAP scroll storytelling • [Repo](https://github.com/VIKASSAMVEL/portfolio)
+ - <img alt="Vision" src="https://img.shields.io/badge/Computer_Vision-FF00CC?style=flat-square" /> TryOnAi — virtual try-on research build  
 	`Python` • Pose alignment • Cloth warping • Rendering • [Repo](https://github.com/VIKASSAMVEL/TryOnAi)
- - <img alt="Security" src="https://img.shields.io/badge/Security-FF4B4B?style=flat-square" /> Deepfake Detection (Web) — applied detector with web UI  
-	`HTML` • `Python`-ready backend • Practical pipeline • [Repo](https://github.com/VIKASSAMVEL/deepfake-detection-in-website)
- - <img alt="Voice" src="https://img.shields.io/badge/Voice-00F0FF?style=flat-square" /> J.A.R.V.I.S — voice automation assistant  
-	`Python` • Speech I/O • Workflows • [Repo](https://github.com/VIKASSAMVEL/J.A.R.V.I.S)
- - <img alt="Skills" src="https://img.shields.io/badge/Skills-9C27B0?style=flat-square" /> SkillNexus — skills graph and role mapping  
-	`JavaScript` • Data/UI • [Repo](https://github.com/VIKASSAMVEL/SkillNexus)
- - <img alt="Finance" src="https://img.shields.io/badge/Finance-FFD700?style=flat-square" /> Expense Tracker — minimal personal finance  
-	`JavaScript` • UI/State • [Repo](https://github.com/VIKASSAMVEL/expense-tracker)
 
 <details>
 <summary>More repositories</summary>
 
-- 🌐 Portfolio (TypeScript) — [my-portfolio](https://github.com/VIKASSAMVEL/my-portfolio)
+- 🌐 Portfolio (React + TypeScript + Vite) — [portfolio](https://github.com/VIKASSAMVEL/portfolio)
 - <img alt="Biotech" src="https://img.shields.io/badge/Biotech-7DD3FC?style=flat-square" /> Pharma Outbreak Predictor — [PharmaOutBreakPredictor](https://github.com/VIKASSAMVEL/PharmaOutBreakPredictor)
 - <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-22c55e?style=flat-square" /> Kaggle NFL exploration — [kaggle-nfl](https://github.com/VIKASSAMVEL/kaggle-nfl)
 - <img alt="Science" src="https://img.shields.io/badge/Research-9C27B0?style=flat-square" /> Internship ML work — [Machine-Learning-internship](https://github.com/VIKASSAMVEL/Machine-Learning-internship)
@@ -78,46 +76,49 @@ I’m a high-throughput CS engineer (3rd year) building production-grade, cross-
 <table>
 	<tr>
 		<td width="50%" valign="top">
-			<h3><a href="https://github.com/VIKASSAMVEL/farmer_ai_agent">AI Farmer Agent</a></h3>
-			<p>Multimodal agritech assistant: voice, image, text with offline-first design.</p>
-			<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-			<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
-			<img alt="LLM" src="https://img.shields.io/badge/LLM-Agentic-7c3aed?style=flat-square" />
+			<h3><a href="https://github.com/VIKASSAMVEL/skydroid-fpv">SkyFPV</a></h3>
+			<p>Open-source Android FPV ground station for Skydroid T12/UVC with low-latency H.264, DVR, VR mode, maps, and MAVLink forwarding.</p>
+			<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square" />
+			<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square" />
+			<img alt="MAVLink" src="https://img.shields.io/badge/MAVLink-Forwarding-0ea5e9?style=flat-square" />
 		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/VIKASSAMVEL/farmer-agent">farmer-agent</a></h3>
+			<p>Flutter app for farmers with multilingual chat, plant disease diagnosis, weather intelligence, mandi prices, soil guidance, and scheme matching.</p>
+			<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />
+			<img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square" />
+			<img alt="Voice" src="https://img.shields.io/badge/Voice-STT%2FTTS-14b8a6?style=flat-square" />
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/VIKASSAMVEL/promptwars">VenueSync AI (PromptWars)</a></h3>
+			<p>Next.js/TypeScript smart-stadium operations with organizer + fan views, multilingual navigation, accessibility routing, and test coverage.</p>
+			<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" />
+			<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+			<img alt="Testing" src="https://img.shields.io/badge/Jest-RTL-c084fc?style=flat-square" />
+		</td>
+		<td width="50%" valign="top">
+			<h3><a href="https://github.com/VIKASSAMVEL/portfolio">portfolio</a></h3>
+			<p>React + TypeScript + Vite portfolio with GSAP ScrollTrigger chapters, proof strips, and project storytelling.</p>
+			<img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=111827&style=flat-square" />
+			<img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square" />
+			<img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square" />
+		</td>
+	</tr>
+	<tr>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/VIKASSAMVEL/TryOnAi">TryOnAi</a></h3>
-			<p>Virtual try‑on: pose alignment, cloth warping, and rendering pipeline.</p>
+			<p>Virtual try-on pipeline with pose alignment, cloth warping, and rendering experiments.</p>
 			<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
 			<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square" />
-			<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square" />
 		</td>
-	</tr>
-	<tr>
 		<td width="50%" valign="top">
 			<h3><a href="https://github.com/VIKASSAMVEL/deepfake-detection-in-website">Deepfake Detection (Web)</a></h3>
-			<p>Practical deepfake detection exposed via a clean web interface.</p>
+			<p>Applied deepfake detector with a web interface.</p>
 			<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-			<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-		</td>
-		<td width="50%" valign="top">
-			<h3><a href="https://github.com/VIKASSAMVEL/SkillNexus">SkillNexus</a></h3>
-			<p>Skills graph and role mapping with interactive UI.</p>
 			<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat-square" />
-			<img alt="Data" src="https://img.shields.io/badge/Data-Insights-22c55e?style=flat-square" />
-		</td>
-	</tr>
-	<tr>
-		<td width="50%" valign="top">
-			<h3><a href="https://github.com/VIKASSAMVEL/J.A.R.V.I.S">J.A.R.V.I.S</a></h3>
-			<p>Voice automation assistant with task workflows.</p>
 			<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-			<img alt="Speech" src="https://img.shields.io/badge/Speech-IO-00E7FF?style=flat-square" />
-		</td>
-		<td width="50%" valign="top">
-			<h3><a href="https://github.com/VIKASSAMVEL/expense-tracker">Expense Tracker</a></h3>
-			<p>Minimal personal finance tracker.</p>
-			<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222&style=flat-square" />
-			<img alt="UI" src="https://img.shields.io/badge/UI-State-7dd3fc?style=flat-square" />
 		</td>
 	</tr>
 </table>
